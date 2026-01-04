@@ -12,7 +12,7 @@
 I am a Computer Science student and a self taught programmer. 
 
 * 🌍  I'm based in Philipines
-* ✉️  Contact me at [acid@acidop.codes](mailto:rockyjayducusin3@gmail.com)
+* ✉️  Contact me at [rockyjayducusin3@gmail.com](mailto:rockyjayducusin3@gmail.com)
 * 🤝  Open to collaborating on projects.
 
 [![](https://komarev.com/ghpvc/?username=AcidOP)](https://komarev.com/ghpvc/?username=AcidOP)
