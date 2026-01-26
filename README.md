@@ -12,7 +12,7 @@ I am a Information Technology student and a self taught programmer.
 
 * 🌍  I'm based in Philipines
 * ✉️  Contact me at [rockyjayducusin3@gmail.com](mailto:rockyjayducusin3@gmail.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/rocky-jay-ducusin-99ab173a2/)
+* 🔗  Contact me at [LinkedIn](https://www.linkedin.com/in/rocky-jay-ducusin-99ab173a2/)
 * 🤝  Open to collaborating on projects.
 
 [![](https://komarev.com/ghpvc/?username=AcidOP)](https://komarev.com/ghpvc/?username=AcidOP)
