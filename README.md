@@ -7,7 +7,7 @@ I am a Information Technology student and a self taught programmer.
 * ✉️  Contact me at [rockyjayducusin3@gmail.com](mailto:rockyjayducusin3@gmail.com)
 
 
-# Skills 💪🏻
+# Skills 
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
