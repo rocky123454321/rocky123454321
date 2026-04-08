@@ -5,7 +5,7 @@ I am a Information Technology student and a self taught programmer.
 
 * 🌍 I'm based in the Philippines  
 * ✉️ Contact me at [rockyjayducusin3@gmail.com](mailto:rockyjayducusin3@gmail.com)  
-* 💼 LinkedIn: [linkedin.com/in/rocky-jay-ducusin-99ab173a2](https://www.linkedin.com/in/rocky-jay-ducusin-99ab173a2/)
+* 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/rocky-jay-ducusin-99ab173a2/)
 
 # Skills 
 
